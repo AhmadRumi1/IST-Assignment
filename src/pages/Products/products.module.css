@@ -1,0 +1,11 @@
+.topContainer {
+    display        : flex;
+    justify-content: space-between;
+    align-items    : center;
+    margin-top     : var(--containerMargin);
+    margin-bottom  : var(--containerMargin);
+}
+
+.heading {
+    margin: 0;
+}
