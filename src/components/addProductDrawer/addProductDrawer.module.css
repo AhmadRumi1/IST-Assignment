@@ -1,0 +1,8 @@
+.footerContaienr {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.submitBtn {
+    margin-left: var(--btnHorizontalSpacing);
+}

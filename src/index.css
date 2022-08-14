@@ -21,6 +21,7 @@ code {
   /* spacing */
   --containerPadding: 10px;
   --containerMargin : 10px;
+  --btnHorizontalSpacing: 10px;
 
   /* transtions */
   --iconTransition: all 0.25s ease-in-out

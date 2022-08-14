@@ -9,3 +9,11 @@
 .heading {
     margin: 0;
 }
+
+.ctaContainer {
+    display: flex;
+}
+
+.addBtn {
+    margin-left: var(--btnHorizontalSpacing);
+}
